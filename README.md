@@ -1,5 +1,3 @@
-# Splyt-Website-UI-Clone-with-Enhancements-Show-Case-
-
 # Better Splyt (UI Recreation & Animation Practice)
 
 A **React + Vite** based recreation of the Splyt website with custom animations, smooth scrolling, and image sequence effects.  
