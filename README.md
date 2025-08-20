@@ -4,7 +4,7 @@ A **React + Vite** based recreation of the Splyt website with custom animations,
 Built for learning purposes — inspired by Splyt, but with unique animation tweaks.
 
 ## 🚀 Live Preview
-[https://better-splyt.netlify.app/](https://better-splyt.netlify.app/)
+[https://better-splyt.netlify.app/](https://better-spylt.netlify.app/)
 
 ## 🛠 Tech Stack
 - React
